@@ -1,0 +1,1 @@
+This project like previouse project simple API but in this project use api key if the api key different with in the database or regitered will can not use API. This project not included with api registration. Change the API KEY on client/api.class.php.
